@@ -1,0 +1,73 @@
+<html>
+<!--Group of Tokyo
+Check point one - 2020.02.28-->
+
+<head>
+	<title>Little Caffe Shop</title>
+</head>
+
+<body>	
+<header>
+	<h1 style="text-align:center">Little Caffe Shop</br>	
+	<img src="pic1.jpg" alt="Coffee pic">
+	</h1>
+</header>
+	<nav>
+		<ul>
+			<li>COFFEE</li>
+			<li>STORIES</li>
+			<li>INFO</li>
+	    </ul>
+	</nav>
+<p>	
+</br>
+One Pace Plaza </br>
+New York, NY10038</br>
+845-918-1282</br>
+
+Open:</br>
+6:00am - 6:00pm Mon-Fri</br>
+7:00a-6:00p Saturday and Sunday</br>
+</p>
+
+
+	<footer>
+		<address style="text-align:center;">
+			<span><strong>&#9829; Your Little Caffe Shop   |   </strong></span> 
+			<span><strong>One Pace Plaza | New York City | 10038  |  United States&#9829;</strong>
+		   </span> 
+	   </address>
+	</footer>
+	
+</body>
+</html>
+
+
+
+<style>
+	body {
+		background:black;
+		color:white;
+	}
+	ul{
+		text-align:center;
+	}
+	li{
+		padding-left:3em;
+		padding-right:3em;
+		font:0.8em;
+		font-weight:bold;
+		display:inline;	
+	}
+	p{
+		text-align:center;
+		padding-top:2em;
+		line-height:1.5em;
+	}
+	footer{
+		position:absolute;
+		bottom:0;
+		width:100%;
+	}
+
+</style>
